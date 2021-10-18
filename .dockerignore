@@ -1,0 +1,8 @@
+*.csv
+*.png
+*.PNG
+pngs
+pngs_bak
+payload
+output
+composers

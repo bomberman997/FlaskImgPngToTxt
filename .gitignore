@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@bomberman997 
+bomberman997
+/
+FlaskImgPngToTxt
+Public
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+FlaskImgPngToTxt/.gitignore
+@bomberman997
+bomberman997 Initial commit
+Latest commit 42b400a 1 minute ago
+ History
+ 1 contributor
+129 lines (105 sloc)  1.76 KB
+   
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +158,25 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
+
+*.csv
+*.png
+*.PNG
+pngs
+pngs_bak
+payload
+output
+composers
